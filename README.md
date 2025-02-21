@@ -30,3 +30,17 @@ React_JS/
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
     ```
+## 🚀 Install Dependencies  
+
+```sh
+npm install
+```
+
+## 🚀 Start the Development Server  
+
+```sh
+npm start
+```
+
+## 📢 Contributing
+If you find any issues or want to add new features, feel free to submit a pull request. Contributions are always welcome! 😊
