@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ExerciseApp from "../exercise/ExerciseApp";
-import App from "../App";
+import App from "../app/App";
 
 const Layout = () => {
     const [activeTab, setActiveTab] = useState("app");
