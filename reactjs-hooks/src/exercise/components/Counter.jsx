@@ -17,7 +17,7 @@ const Counter = () => {
 
     return (
         <div className="flex justify-center flex-col gap-4 items-center min-h-[55vh]">
-            <h1 className='text-3xl text-orange-500 font-semibold text-center' >Exercise Challenge App</h1>
+            <h1 className='text-3xl text-orange-500 font-semibold text-center' >Exercise - Building Counter app</h1>
             <div className="w-full max-w-md p-6 bg-gray-800 text-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 className="text-3xl font-semibold text-center mb-4">
                     Count: <span className="text-orange-400">{state.count}</span>
