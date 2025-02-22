@@ -3,9 +3,9 @@ import Counter from './components/Counter';
 
 const App = () => {
   return (
-    <div className=''>
-      <Counter />
-    </div>
+    <main className=''>
+      <span className='text-xl font-extrabold text-green-500'> 1: <Counter /></span>
+    </main>
   );
 }
 
