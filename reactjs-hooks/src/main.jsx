@@ -7,4 +7,4 @@ createRoot(document.getElementById('hooks')).render(
   <StrictMode>
     <Layout />
   </StrictMode>,
-)
+);
