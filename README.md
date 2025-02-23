@@ -3,13 +3,21 @@
 Yeh repository **React.js** ke har ek topic ko cover karti hai. Har ek topic ke liye ek alag folder hai jisme us topic se related code aur examples diye gaye hain.  
 
 ## 📂 Project Structure  
+
 React_JS/
+
 │── 📂 src/
+
 │── 📂 public/
+
 │── 📂 components/ (Common components like Button, Header, etc.)
+
 │── 📂 hooks/ (Custom hooks)
+
 │── 📂 context/ (React Context API)
+
 │── 📂 pages/ (for different pages)
+
 │── 📜 README.md (initiallizing markdown code for understanding folder structure.)
 
 
