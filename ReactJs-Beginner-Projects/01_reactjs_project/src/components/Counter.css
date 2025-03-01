@@ -1,0 +1,51 @@
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.count-display {
+  font-size: 60px;
+  font-weight: bold;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+#btn-container {
+  display: flex;
+  gap: 20px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 24px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+  transform: scale(1.1);
+}
+
+button:active {
+  background-color: #388e3c;
+}
+
+.increment {
+  background-color: #4caf50;
+}
+
+.decrement {
+  background-color: #f44336;
+}
+
+.decrement:hover {
+  background-color: #e53935;
+}
