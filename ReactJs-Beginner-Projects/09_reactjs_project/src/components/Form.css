@@ -1,4 +1,104 @@
-.form {
-  padding: 10px 5vw;
-  /* border: 1px solid; */
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.form-container {
+  display: flex;
+  width: 80%;
+}
+
+.card-image img {
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.form-section {
+  width: 50%;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus {
+  border-color: #4caf50;
+  outline: none;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: -8px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #45a049;
+}
+
+.submit-btn:active {
+  background-color: #3e8e41;
+}
+
+/* Input error border color */
+input[style*="border-color: red"] {
+  border-color: red;
+}
+
+input[style*="border-color: green"] {
+  border-color: green;
+}
+
+/* Responsive design */
+@media (max-width: 900px) {
+  .form-container {
+    flex-direction: column;
+  }
+
+  .image-section,
+  .form-section {
+    flex: none;
+    width: 100%;
+  }
+
+  .card {
+    max-width: 100%;
+    padding: 20px;
+  }
+
+  /* Adjust the image to be more compact */
+  .card-image img {
+    max-width: 80%;
+    height: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  .form-section {
+    padding: 15px;
+  }
 }
