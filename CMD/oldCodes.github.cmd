@@ -1,4 +1,3 @@
-cat 1August.git.cmd
 echo.
 echo Starting Git process...
 echo.
