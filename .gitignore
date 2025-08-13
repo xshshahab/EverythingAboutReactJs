@@ -1,1 +1,5 @@
 ui_main-project/.env
+
+node_modules/
+
+.env
