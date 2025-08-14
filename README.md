@@ -47,7 +47,7 @@ npm install
 ## 🚀 Start the Development Server  
 
 ```sh
-npm start
+npm run dev
 ```
 
 ## 📢 Contributing
