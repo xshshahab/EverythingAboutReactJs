@@ -1,0 +1,80 @@
+[
+  {
+    "id": "xsh-01",
+    "username": "xshshahab",
+    "fullName": "Mohammad Shahabuddin",
+    "bio": "A Full-Stack Developer passionate about learning, skilled in modern web technologies, and dedicated to impactful projects.",
+    "location": "Patna, Bihar",
+    "nationality": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153608835?v=4",
+    "socialMedia": [
+      {
+        "igUser": "xsh_shahab",
+        "igUrl": "https://www.instagram.com/xsh_shahab"
+      },
+      {
+        "x-user": "xsh_shahab",
+        "xUrl": "https://www.x.com/xsh_shahab"
+      },
+      {
+        "linkedIn-user": "Mohammad Shahabuddin",
+        "linkedInUrl": "https://www.linkedin.com/in/mdshahabuddin82/"
+      }
+    ],
+    "mostUsedLanguage": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "NodeJs/ExpressJs",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "ik-02",
+    "username": "workmdirfan29",
+    "fullName": "Mohammad Irfan",
+    "bio": "A Full-Stack Developer with a passion for learning, expertise in modern web technologies, and a focus on impactful projects.",
+    "location": "Patna, Bihar",
+    "nationality": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176482473?v=4",
+    "socialMedia": [
+      {
+        "igUser": "sahil__ik",
+        "igUrl": "https://www.instagram.com/sahil__ik"
+      },
+      {
+        "x-user": "mdirfan_23",
+        "xUrl": "https://www.x.com/mdirfan_23"
+      },
+      {
+        "linkedIn-user": "MD IRFAN",
+        "linkedInUrl": "https://www.linkedin.com/in/mdirfan2470/"
+      }
+    ],
+    "mostUsedLanguage": ["JavaScript", "HTML", "CSS", "REACT.JS"]
+  },
+  {
+    "id": "tal-03",
+    "username": "TalishRaza78",
+    "fullName": "Talish Raza",
+    "bio": "👋 Hi, I'm [Talish Raza]! 🌱 I'm currently learning web development and exploring GitHub. 💡 I’m interested in HTML, CSS, JavaScript, and Python.",
+    "location": "Patna, Bihar",
+    "nationality": "India",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213846468?v=4",
+    "socialMedia": [
+      {
+        "igUser": "talish__.78",
+        "igUrl": "https://www.instagram.com/talish__.78"
+      },
+      {
+        "x-user": "Talish_S78",
+        "xUrl": "https://x.com/talish_s78"
+      },
+      {
+        "linkedIn-user": "Talish Raza",
+        "linkedInUrl": "https://www.linkedin.com/in/talish-raza-0144442b3/"
+      }
+    ],
+    "mostUsedLanguage": ["HTML", "CSS", "Python"]
+  }
+]

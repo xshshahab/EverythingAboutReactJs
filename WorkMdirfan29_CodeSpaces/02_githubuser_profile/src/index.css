@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+body {
+  background-color: #232323;
+}
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  background-color: #911818;
+}
