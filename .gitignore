@@ -1,5 +1,8 @@
 ui_main-project/.env
 
 node_modules/
-
+build/
+dist/
 .env
+.DS_Store
+*.log
