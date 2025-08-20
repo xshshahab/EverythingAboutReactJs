@@ -7,17 +7,11 @@ Yeh repository **React.js** ke har ek topic ko cover karti hai. Har ek topic ke 
 React_JS/
 
 │── 📂 src/
-
 │── 📂 public/
-
 │── 📂 components/ (Common components like Button, Header, etc.)
-
 │── 📂 hooks/ (Custom hooks)
-
 │── 📂 context/ (React Context API)
-
 │── 📂 pages/ (for different pages)
-
 │── 📜 README.md (initiallizing markdown code for understanding folder structure.)
 
 ## 📌 Topics Covered
@@ -49,18 +43,6 @@ npm install
 ```sh
 npm run dev
 ```
-
-## 📢 Contributing
-
-If you find any issues or want to add new features, feel free to submit a pull request. Contributions are always welcome! 😊
-
-Perfect — you're absolutely right. **Directly pushing to `main`** is **not recommended**. A better contribution workflow is:
-
-> 🔧 **Create a feature branch** → make changes → push to your fork → open a pull request (PR) to `main`.
-
-Let me help you rewrite your `README.md` **"How to Contribute"** section using the proper Git flow with feature branches.
-
----
 
 ## 🤝 How to Contribute
 
