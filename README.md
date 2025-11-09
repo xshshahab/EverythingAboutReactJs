@@ -60,7 +60,7 @@ xshshahab_CodeSpaces
 
 ### 🧑‍💻 Contribution Workflow
 
-> ⚠️ Do **not push directly to `main`**.
+⚠️ Do **not push directly to `main`**.
 
 1. **Fork** the repository to your GitHub account.
 
